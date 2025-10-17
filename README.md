@@ -24,7 +24,7 @@ Hier sind einige Screenshots der Portfolio-Website:
 
 ![Home Page](screenshots/me.png)  
 ![My Skills Section](screenshots/skills.png)  
-![My Projects Section](screenshots/porjects.png)  
+![My Projects Section](screenshots/projects.png)  
 ![Contact Form](screenshots/contact.png)  
 
 *(Bitte ersetze die Dateipfade durch die tatsächlichen Screenshots im Projektordner.)*
