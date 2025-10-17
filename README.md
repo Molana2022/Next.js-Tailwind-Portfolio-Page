@@ -22,10 +22,10 @@ Die Website dient zur Präsentation meiner Projekte, Fähigkeiten und Kontaktmö
 ## Screenshots
 Hier sind einige Screenshots der Portfolio-Website:
 
-![Home Page](screenshots/me.png)  
-![My Skills Section](screenshots/skills.png)  
-![My Projects Section](screenshots/projects.png)  
-![Contact Form](screenshots/contact.png)  
+![Home Page](Screenshots/me.png)  
+![My Skills Section](Screenshots/skills.png)  
+![My Projects Section](Screenshots/projects.png)  
+![Contact Form](Screenshots/contact.png)  
 
 *(Bitte ersetze die Dateipfade durch die tatsächlichen Screenshots im Projektordner.)*
 
