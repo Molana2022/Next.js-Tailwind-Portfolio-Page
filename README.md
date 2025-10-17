@@ -19,6 +19,16 @@ Die Website dient zur Präsentation meiner Projekte, Fähigkeiten und Kontaktmö
 - Kontaktformular (mit Backend-Anbindung)
 - Responsives Design für Desktop und Mobile
 
+## Screenshots
+Hier sind einige Screenshots der Portfolio-Website:
+
+![Home Page](public/image/screenshots/me.png)  
+![My Skills Section](public/image/screenshots/skills.png)  
+![My Projects Section](public/image/screenshots/porjects.png)  
+![Contact Form](public/image/screenshots/contact.png)  
+
+*(Bitte ersetze die Dateipfade durch die tatsächlichen Screenshots im Projektordner.)*
+
 ## Lokales Ausführen des Projekts
 1. Repository klonen:
 ```bash
@@ -28,7 +38,7 @@ git clone <DEIN_GITHUB_LINK>
 2. In das Projektverzeichnis wechseln:
 
 ```bash
-cd portfolio
+cd nextjs-tailwind-portfolio-page-main
 ```
 
 3. Abhängigkeiten installieren:
@@ -66,7 +76,6 @@ Jetzt sollte die Portfolio-Website lokal laufen.
 ## Demo
 
 🔜 Eine Live-Demo wird in Kürze verfügbar sein.
-
 
 ## Hinweise
 
